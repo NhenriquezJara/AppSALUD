@@ -7,9 +7,22 @@ import { Component, OnInit } from '@angular/core';
 })
 export class RegistroPage implements OnInit {
 
+  usuario = {
+    nombre:'',
+    edad:'',
+    sexo:'',
+    email:'',
+    password:''
+  }
+
   constructor() { }
 
   ngOnInit() {
+  }
+
+  onSubmit(){
+    console.log('submit');
+    console.log(this.usuario);
   }
 
 }
