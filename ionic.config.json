@@ -1,7 +1,0 @@
-{
-  "name": "AppSalud",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular"
-}
