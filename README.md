@@ -20,7 +20,11 @@ el codigo que se copio se debera de copiar en el archivo
 
 apretar en authentication y hacer click en comenzar.
 seleccionar la opcion correo electronico, habilitar solamente la opcion de arriba y dar click en guardar.
-luego hacer click en firestore database y hacer click en crear base de datos, seleccionar la opcion comenzar en modo de prueba y continuar luego en habilitar y ya esta lista la base de datos
+luego hacer click en firestore database y hacer click en crear base de datos, seleccionar la opcion comenzar en modo de prueba y continuar luego en habilitar y ya esta lista la base de datos.
+
+AUTORES: BRYAN ROBLES Y NEFTALI HENRIQUEZ
+
+NOTA: AL DESCARGAR LA APP Y MONTAR EL PROYECTO EN ANDROID ESTUDIO, SE DEBE IR A "FILE" Y SELECCIONAR "SYNC PROYECT WITH GRADLE FILES", ESTE PROCESO SE REALIZA PARA QUE EL SOFTWARE RECONOZCA EL "SDK" DEL PROYECTO
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -48,3 +52,8 @@ the code that was copied should be copied into the file
 click on authentication and click on start.
 select the email option, enable only the option above and click save.
 then click on firestore database and click on create database, select the option to start in test mode and then continue to enable and the database is ready
+
+
+AUTHORS: BRYAN ROBLES AND NEFTALI HENRIQUEZ
+
+NOTE: WHEN DOWNLOADING THE APP AND MOUNTING THE PROJECT IN ANDROID STUDIO, YOU MUST GO TO "FILE" AND SELECT "SYNC PROYECT WITH GRADLE FILES", THIS PROCESS IS CARRIED OUT SO THAT THE SOFTWARE RECOGNIZES THE "SDK" OF THE PROJECT
